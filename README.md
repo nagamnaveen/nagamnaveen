@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nagamnaveen
 - 👀 I’m interested in .. learning new things 
 - 🌱 I’m currently learning ..Naval architecture 
-- 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ..9492908967
 
 <!---
